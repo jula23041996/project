@@ -268,7 +268,7 @@ body._lock {
 /*EDGE GROUP*/
 .edge-group__container{
 	height: 908px;
-	background-image: url("bg_main.png");
+	background-image: url("./bg_main.png");
 	background-size: contain;
 	background-repeat: no-repeat;
 }
