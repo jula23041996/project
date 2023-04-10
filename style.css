@@ -268,7 +268,7 @@ body._lock {
 /*EDGE GROUP*/
 .edge-group__container{
 	height: 908px;
-	background-image: url(bg_main.png);
+	background-image: url("bg_main.png");
 	background-size: contain;
 	background-repeat: no-repeat;
 }
@@ -309,7 +309,7 @@ body._lock {
     width: 80%;
     height: auto;
 	border-radius: 35px;
-	background-image: url(.//project/house-bg.svg), url(.//project/mission_bg.svg);
+	background-image: url("house-bg.svg"), url("mission_bg.svg");
 	background-size: 115%, cover;
 	background-repeat: no-repeat;
 	background-position: bottom left, bottom;
