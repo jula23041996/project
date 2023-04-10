@@ -442,7 +442,7 @@ body._lock {
 	height: 100%;
 	margin: 100px auto;
 	background-color: #006CA7;
-	background-image: url("//project/flower1.svg"), url("//project/flower2.svg"), url("//project/flower3.svg");
+	background-image: url("flower1.svg"), url("flower2.svg"), url("flower3.svg");
 	background-repeat: no-repeat;
 	background-position: bottom left, bottom center, bottom right;
 	border-radius: 32px;
@@ -474,7 +474,7 @@ body._lock {
 	.managment__container{
 		margin: 0px;
 		width: 100%;
-		background-image: url("//project/flower1.svg"), url("//project/flower3.svg");
+		background-image: url("flower1.svg"), url("flower3.svg");
 		background-repeat: no-repeat;
 		background-position: bottom left, bottom right;
 		border-radius: 0px;
@@ -696,37 +696,37 @@ margin: auto;
 	padding: 16px 64px 81px 34px;
 }
 .swiper-slide1{
-	background-image: url("//project/slide1.png");
+	background-image: url("slide1.png");
 	background-repeat: no-repeat;
 	background-size: cover;
 }
 .swiper-slide2{
-	background-image: url("//project/slide2.png");
+	background-image: url("slide2.png");
 	background-repeat: no-repeat;
 	background-size: cover;
 }
 .swiper-slide3{
-	background-image: url("//project/slide3.png");
+	background-image: url("slide3.png");
 	background-repeat: no-repeat;
 	background-size: cover;
 }
 .swiper-slide4{
-	background-image: url("//project/slide4.png");
+	background-image: url("slide4.png");
 	background-repeat: no-repeat;
 	background-size: cover;
 }
 .swiper-slide5{
-	background-image: url("//project/slide5.png");
+	background-image: url("slide5.png");
 	background-repeat: no-repeat;
 	background-size: cover;
 }
 .swiper-slide6{
-	background-image: url("//project/slide6.png");
+	background-image: url("slide6.png");
 	background-repeat: no-repeat;
 	background-size: cover;
 }
 .swiper-slide7{
-	background-image: url("//project/slide7.png");
+	background-image: url("slide7.png");
 	background-repeat: no-repeat;
 	background-size: cover;
 }
@@ -879,7 +879,7 @@ margin: auto;
 	flex-direction: row;
 	width: 60%;
 	margin: auto;
-	background-image: url("//project/bg-feedback.png");
+	background-image: url("bg-feedback.png");
 	background-repeat: no-repeat;
 	background-size: cover;
 	border-radius: 90px;
